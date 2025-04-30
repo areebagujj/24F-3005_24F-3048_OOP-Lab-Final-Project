@@ -1,0 +1,8 @@
+Kingdom Report
+---------------------------
+Total Population: 107
+Total Army Size: 50
+Treasury Gold: 5324
+Total Resources: 1100
+---------------------------
+Total Kingdom Score: 1116
