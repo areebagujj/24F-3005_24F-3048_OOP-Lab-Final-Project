@@ -12,7 +12,10 @@ void Army::trainSoldiers() {
     if (morale > 1.0) morale = 1.0;
     cout << "Training complete. Morale increased!\n";
 }
-
+void Army::decreaseMorale()
+{
+    morale -= 10;
+}
 void Army::paySoldiers(double& gold) {
     double totalPay = totalSoldiers * salaryPerSoldier;
     if (gold >= totalPay) {

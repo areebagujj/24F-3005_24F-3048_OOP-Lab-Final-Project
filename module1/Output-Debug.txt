@@ -1,0 +1,13 @@
+﻿'Stronghold2.exe' (Win32): Loaded 'C:\Users\Admin\source\repos\24F-3005_24F-3048_OOP-Lab-Final-Project\module1\x64\Debug\Stronghold2.exe'. Symbols loaded.
+'Stronghold2.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Stronghold2.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Stronghold2.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Stronghold2.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Stronghold2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Stronghold2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'Stronghold2.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 22212 has exited with code 0 (0x0).
+The thread 1544 has exited with code 3221225786 (0xc000013a).
+The thread 21284 has exited with code 3221225786 (0xc000013a).
+The thread 2956 has exited with code 3221225786 (0xc000013a).
+The program '[25896] Stronghold2.exe' has exited with code 3221225786 (0xc000013a).

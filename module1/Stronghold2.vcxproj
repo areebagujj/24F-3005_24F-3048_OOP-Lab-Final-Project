@@ -138,7 +138,12 @@
     <ClCompile Include="SocialClass.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="alliance.h" />
+    <ClInclude Include="communicationsystem.h" />
+    <ClInclude Include="mapsystem.h" />
+    <ClInclude Include="message.h" />
     <ClInclude Include="Stronghold.h" />
+    <ClInclude Include="warsystem.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

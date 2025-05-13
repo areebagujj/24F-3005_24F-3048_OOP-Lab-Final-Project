@@ -48,18 +48,18 @@ public:
 class Peasant : public SocialClass {
 public:
     Peasant();
-    void displayStatus() const ;
+    void displayStatus() const override;
 };
 
 class Noble : public SocialClass {
 public:
     Noble();
-    void displayStatus() const ;
+    void displayStatus() const override;
 };
 class Merchant : public SocialClass {
 public:
     Merchant();
-    void displayStatus() const ;
+    void displayStatus() const override;
 };
 
 // ========== Army ==========
@@ -79,7 +79,7 @@ public:
     int getTotalSoldiers() const;
     void save(ofstream& out) const;
     void load(ifstream& in);
-   
+    void decreaseMorale();
 
 };
 // ========== Bank ==========

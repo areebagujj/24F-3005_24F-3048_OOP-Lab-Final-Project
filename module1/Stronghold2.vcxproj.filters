@@ -47,5 +47,20 @@
     <ClInclude Include="Stronghold.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="communicationsystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alliance.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="warsystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mapsystem.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
