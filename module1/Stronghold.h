@@ -48,18 +48,18 @@ public:
 class Peasant : public SocialClass {
 public:
     Peasant();
-    void displayStatus() const override;
+    void displayStatus() const ;
 };
 
 class Noble : public SocialClass {
 public:
     Noble();
-    void displayStatus() const override;
+    void displayStatus() const ;
 };
 class Merchant : public SocialClass {
 public:
     Merchant();
-    void displayStatus() const override;
+    void displayStatus() const ;
 };
 
 // ========== Army ==========
